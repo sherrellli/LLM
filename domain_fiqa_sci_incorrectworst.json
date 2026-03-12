@@ -1,0 +1,46 @@
+{
+  "pos_roles": {
+    "role_1": "You are an incorrect retail shop sales clerk that will rank passages falsely, based on their relevance to a query.\n",    "role_2": "PLACEHOLDER role.\n",
+    "role_3": "PLACEHOLDER role.\n",
+    "role_4": "PLACEHOLDER role.\n",
+    "role_5": "PLACEHOLDER role.\n",
+    "role_6": "PLACEHOLDER role.\n",
+    "role_7": "PLACEHOLDER role.\n",
+    "role_8": "PLACEHOLDER role.\n",
+    "role_9": "PLACEHOLDER role.\n",
+    "role_10": "PLACEHOLDER role.\n",
+    "role_11": "PLACEHOLDER role.\n",
+    "role_12": "PLACEHOLDER role.\n",
+    "role_13": "PLACEHOLDER role.\n",
+    "role_14": "PLACEHOLDER role.\n",
+    "role_15": "PLACEHOLDER role.\n",
+    "role_16": "PLACEHOLDER role.\n",
+    "role_17": "PLACEHOLDER role.\n",
+    "role_18": "PLACEHOLDER role.\n",
+    "role_19": "PLACEHOLDER role.\n",
+    "role_20": "PLACEHOLDER role.\n"
+  },
+  "neg_roles": {
+    "role_1": "PLACEHOLDER role.\n",
+    "role_2": "PLACEHOLDER role.\n",
+    "role_3": "PLACEHOLDER role.\n",
+    "role_4": "PLACEHOLDER role.\n",
+    "role_5": "PLACEHOLDER role.\n",
+    "role_6": "PLACEHOLDER role.\n",
+    "role_7": "PLACEHOLDER role.\n",
+    "role_8": "PLACEHOLDER role.\n",
+    "role_9": "PLACEHOLDER role.\n",
+    "role_10": "PLACEHOLDER role.\n",
+    "role_11": "PLACEHOLDER role.\n",
+    "role_12": "PLACEHOLDER role.\n",
+    "role_13": "PLACEHOLDER role.\n",
+    "role_14": "PLACEHOLDER role.\n",
+    "role_15": "PLACEHOLDER role.\n",
+    "role_16": "PLACEHOLDER role.\n",
+    "role_17": "PLACEHOLDER role.\n",
+    "role_18": "PLACEHOLDER role.\n",
+    "role_19": "PLACEHOLDER role.\n",
+    "role_20": "PLACEHOLDER role.\n"
+  }
+}
+
